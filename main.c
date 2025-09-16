@@ -9,7 +9,7 @@ long long int parse_binary(uint8_t *n, size_t s) {
 			return -1
 
 		if (*n == '1') {
-			
+			endval = 2 << i;
 		}
 		n++;
 	} 
@@ -23,6 +23,10 @@ long long int parse_numlit(uint8_t *n, size_t s) {
 	}
 }
 
+00101010
+
+
+	
 /*
 
 */
