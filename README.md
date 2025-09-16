@@ -1,0 +1,4 @@
+# Add a README
+Help people interested in this repository understand your project by adding a README.
+
+Why would I do that, GitHub (Microsoft BLOATware)
